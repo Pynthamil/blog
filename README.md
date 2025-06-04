@@ -1,2 +1,2 @@
 # blog
-my changes jahnavi
+changes by jahnavi
